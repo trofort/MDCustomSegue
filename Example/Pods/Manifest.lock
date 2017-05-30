@@ -1,0 +1,16 @@
+PODS:
+  - MDCustomSegue (0.1.0)
+
+DEPENDENCIES:
+  - MDCustomSegue (from `../`)
+
+EXTERNAL SOURCES:
+  MDCustomSegue:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MDCustomSegue: e45c460d5608481f9f2bd5b797fc93cf0d45c35b
+
+PODFILE CHECKSUM: f4584cbb45bde5afe1dbb24a249aabb5afc3e3b7
+
+COCOAPODS: 1.2.1

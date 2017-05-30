@@ -1,0 +1,6 @@
+framework module MDCustomSegue {
+  umbrella header "MDCustomSegue-umbrella.h"
+
+  export *
+  module * { export * }
+}
