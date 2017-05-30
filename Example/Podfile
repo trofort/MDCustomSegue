@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MDCustomSegue_Tests' do
+  pod 'MDCustomSegue', :path => '../'
+  
+  
+end
